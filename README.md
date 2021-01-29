@@ -7,7 +7,7 @@
 • Solution: Engineered a logistic regression model to find the score for each lead.
 • Key Achievement: Model Performance: T:est Set: Accuracy: 80.4%, Sensitivity: 80.4%, Specificity: 80.5%
 
-#### Domain: Investment Analysis | Tech Stack: Python, Jupyter Notebook | Sep '20
+### Domain: Investment Analysis | Tech Stack: Python, Jupyter Notebook | Sep '20
 
 • Objective: An NGO wants to invest in countries that are in dire need of funds for development
 • Solution: Performed K-Means & Hierarchical Clustering to form clusters/groups of countries based on gdp of the country, income, child mortality rates of the respective countries.
